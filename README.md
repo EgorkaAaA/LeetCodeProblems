@@ -1,3 +1,3 @@
 # Repository for leetCode problems
 
-###all solutions in tests
+### all solutions in tests
